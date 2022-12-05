@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
     public partial class Form1 : Form
     {
         string codigo = "";
-        string ruta = "D:\\csarm\\Documents\\UTH\\ArquitecturaSoftware\\LectorCodigoBarras\\WindowsFormsApp1\\img";
+        string ruta = ".\\img";
         string[,] productos =
             {
                 { "1", "PINTURA BEREL VINIL ACRÍLICA BASE NEUTRA 19 L", "$2,195.00", "berel19l.jpg", "Pintura base neutra Berelinte Berel de 19 L, brinda un recubrimiento para superficies de yeso, cemento, mortero, entre otros; tanto en interiores como en exteriores. Hecha con vinil y acrílico que le brinda resistencia al lavado y dura hasta 7 años."},
